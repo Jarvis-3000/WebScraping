@@ -16,8 +16,7 @@ So, here __Web-Scraping__ comes into the picture.
 ## Web-scraping consists of two things
 ***
 >1. **web-crawler**
-![](https://www.scrapinghub.com/wp-content/uploads/2019/05/crawler.png)
->      * The crawler is an artificial intelligence algorithm that browses the web to search the particular data required by following the links across the internet.
+>![](https://www.scrapinghub.com/wp-content/uploads/2019/05/crawler.png)* The crawler is an artificial intelligence algorithm that browses the web to search the particular data required by following the links across the internet.
 
 >2. **web-scraper**
 >     * A web scraper is a specialized tool designed to accurately and quickly extract data from a web page. Web scrapers vary widely in design and complexity, depending on the project.
