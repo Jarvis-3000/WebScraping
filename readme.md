@@ -18,7 +18,7 @@ So, here __Web-Scraping__ comes into the picture.
 >1. **web-crawler**
 
 >![](https://www.scrapinghub.com/wp-content/uploads/2019/05/crawler.png)
->The crawler is an artificial intelligence algorithm that browses the web to search the particular data required by following the links across the internet.
+>* The crawler is an artificial intelligence algorithm that browses the web to search the particular data required by following the links across the internet.
 
 ___
 
@@ -26,7 +26,7 @@ ___
 >2. **web-scraper**
 
 >![](https://www.scrapinghub.com/wp-content/uploads/2019/05/scraper.png)
->A web scraper is a specialized tool designed to accurately and quickly extract data from a web page. Web scrapers vary widely in design and complexity, depending on the project.
+>* A web scraper is a specialized tool designed to accurately and quickly extract data from a web page. Web scrapers vary widely in design and complexity, depending on the project.
 
 
 
