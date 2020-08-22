@@ -1,7 +1,61 @@
 # PRECAUTION
 
->Web scraping is not llegal as long as you are scraping your own website.<br>
+>__Web scraping is not llegal as long as you are scraping your own website.__
 
->if you try to scrap another website, your IP can be blocked.<br>
+>__if you try to scrap another website, your IP can be blocked.__
 
->be careful.<br>
+# What is Web-Scraping
+
+>__Web scraping, also known as web data extraction, is the process of retrieving or “scraping” data from a website.__
+
+>Suppose you want some data from a site then you just copy and paste in your file, but if the needed data is in too large amount then copy-paste will not be the optimized solution.
+So, here __Web-Scraping__ comes into the picture.
+
+
+
+## Web-scraping consists of two things
+***
+>1. **web-crawler**
+>      * The crawler is an artificial intelligence algorithm that browses the web to search the particular data required by following the links across the internet.
+
+>2. **web-scraper**
+>     * A web scraper is a specialized tool designed to accurately and quickly extract data from a web page. Web scrapers vary widely in design and complexity, depending on the project.
+
+
+
+***
+***
+
+# Impplementation
+
+>By sending HTTP request to a particular URL and then by extracting HTML of that web page for getting useful information is known as crawling or web scraping.
+
+### **Modules to be used for crawling in Nodejs:**
+
+```Javascript
+request: "For sending HTTP request to the URL"
+```
+```Javascript  
+cheerio: "For parsing DOM and extracting HTML of web page"
+```
+```Javascript  
+fs: "For reading or writing the data into the file"
+```
+```Javascript
+json2csv: "For converting the object into csv file/table"
+```
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
