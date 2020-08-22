@@ -8,7 +8,7 @@
 
 >__Web scraping, also known as web data extraction, is the process of retrieving or “scraping” data from a website.__
 
->Suppose you want some data from a site then you just copy and paste in your file, but if the needed data is in too large amount then copy-paste will not be the optimized solution.
+>When you want some data from a site then you just copy and paste in your file, but if the needed data is in too large amount to train a ___Machine learning Algrotihm__ then copy-paste will not be the optimized solution.
 So, here __Web-Scraping__ comes into the picture.
 
 
