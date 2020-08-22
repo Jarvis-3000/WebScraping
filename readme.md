@@ -2,7 +2,7 @@
 
 >__Web scraping is not llegal as long as you are scraping your own website.__
 
->__if you try to scrap another website, your IP can be blocked.__
+>__If you try to scrap another website, your IP can be blocked.__
 
 # What is Web-Scraping
 
@@ -44,18 +44,3 @@ fs: "For reading or writing the data into the file"
 ```Javascript
 json2csv: "For converting the object into csv file/table"
 ```
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
