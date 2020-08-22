@@ -33,7 +33,7 @@ So, here __Web-Scraping__ comes into the picture.
 ### **Modules to be used for crawling in Nodejs:**
 
 ```Javascript
-request: "For sending HTTP request to the URL"
+request-promise: "For sending HTTP request to the URL"
 ```
 ```Javascript  
 cheerio: "For parsing DOM and extracting HTML of web page"
