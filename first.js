@@ -8,8 +8,8 @@ const site="https://shoping3000.web.app";   //here don't forget to put semicolon
 
 //we can do this for multiple sites just using const sites=[]
 
+//here i have used IFFE so that this function gets called immediately by itself
 (async()=>{
-
     //this response will give the whole html page data
     const response=await request({
         uri:site,
