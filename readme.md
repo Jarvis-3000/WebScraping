@@ -26,7 +26,7 @@ So, here __Web-Scraping__ comes into the picture.
 ***
 ***
 
-# Impplementation
+# Implementation
 
 >By sending HTTP request to a particular URL and then by extracting HTML of that web page for getting useful information is known as crawling or web scraping.
 
