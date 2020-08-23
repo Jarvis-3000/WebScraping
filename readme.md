@@ -4,6 +4,9 @@
 
 >__If you try to scrap another website, your IP can be blocked.__
 
+>__you can use this website for scraping . This site is specifically designed to test scraping applications.
+>!(books.toscrape.com)
+
 # What is Web-Scraping
 
 >__Web scraping, also known as web data extraction, is the process of retrieving or “scraping” data from a website.__
